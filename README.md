@@ -8,6 +8,7 @@
 [viewdns.info](https://viewdns.info/) ![Website](https://img.shields.io/website?label=%20&url=https%3A%2F%2Fviewdns.info)
 
 [123apps.com](https://123apps.com/) ![Website](https://img.shields.io/website?down_message=down&label=%20&up_message=up&url=https%3A%2F%2F123apps.com%2F)
+- [practicalwebtools.com](https://practicalwebtools.com/) - 1,400+ Free Browser Tools (PDF, converters, calculators), all client-side ![Website](https://img.shields.io/website?down_message=down&label=%20&up_message=up&url=https%3A%2F%2Fpracticalwebtools.com%2F)
 - [pdf.io](https://pdf.io/) - Essential Online PDF Tools
 - [mp3cut.net](https://mp3cut.net/) - Audio Cutter
 - [audio-joiner.com](https://audio-joiner.com/) - Audio Joiner
